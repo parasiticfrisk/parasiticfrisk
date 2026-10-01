@@ -1,7 +1,7 @@
 ## Hi there 👋
 - :hammer_and_wrench: Programmer generalist since 2017.
 - :computer: Formal training in Computer Science.
-- :world_map: BSc, Geography & Environmental Resources
+- :world_map: BSc, Geography & Environmental Resources.
 
 
 ## Programming Languages
